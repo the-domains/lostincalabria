@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LostInCalabria]]></title>
         <description><![CDATA[LostInCalabria]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lostincalabria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 18:07:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 18:16:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lostincalabria/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Un viaggio nella Calabria sconosciuta alla scoperta dei suoi tesori nascosti - Società&Cultura - Il Quotidiano della Calabria]]></title>
+            <description><![CDATA[<article><h1>Un viaggio nella Calabria sconosciuta alla scoperta dei suoi tesori nascosti - Società&Cultura - Il Quotidiano della Calabria</h1><p>Il trentenne Roberto Aiello ha passato mesi alla ricerca di quegli scorci della Calabria che spesso sfuggono alle guide ufficiali ma conservano aspetti suggestivi e affascinanti</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e2f49f3c60ec8ff35800300370b2bf888adb959.jpg"></article>]]></description>
+            <link>http://www.ilquotidianoweb.it/news/societa-cultura/743895/Un-viaggio-nella-Calabria-sconosciuta-.html</link>
+            <guid isPermaLink="false">87a8cf14-0011-481f-8d37-d314b34dcda9</guid>
+            <pubDate>Sun, 10 Jan 2016 18:16:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Capo Vaticano]]></title>
             <description><![CDATA[<article><h1>Capo Vaticano</h1><h2>Praia del fuoco</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/540d4007a9df866c144f167f07d15d378169a673.jpg"></article>]]></description>
-            <link>undefinedcapo-vaticano/index.html</link>
+            <link>https://thegrid.ai/lostincalabria/capo-vaticano/index.html</link>
             <guid isPermaLink="false">a60d0c73-833b-45dd-a485-490fa2a80087</guid>
             <pubDate>Sun, 10 Jan 2016 18:07:08 GMT</pubDate>
         </item>
