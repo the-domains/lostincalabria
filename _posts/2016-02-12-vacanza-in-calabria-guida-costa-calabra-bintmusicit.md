@@ -15,8 +15,8 @@ inLanguage: it
 app_links: []
 isBasedOnUrl: 'http://www.bintmusic.it/vacanze-guide/mare/vacanza-in-calabria-guida-costa-calabra/'
 title: 'Vacanza in Calabria, guida costa calabra - Bintmusic.it'
-datePublished: '2016-02-12T19:59:55.372Z'
-dateModified: '2016-02-12T19:55:49.814Z'
+datePublished: '2016-02-12T19:59:55.376Z'
+dateModified: '2016-02-12T19:55:54.023Z'
 sourcePath: _posts/2016-02-12-vacanza-in-calabria-guida-costa-calabra-bintmusicit.md
 published: true
 inFeed: true
