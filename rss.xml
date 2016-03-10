@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LostInCalabria]]></title>
-        <description><![CDATA[LostInCalabria]]></description>
+        <title><![CDATA[Lost In Calabria]]></title>
+        <description><![CDATA[Lost In Calabria]]></description>
         <link>https://thegrid.ai/lostincalabria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 21:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 20:39:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lostincalabria/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Alitalia, quattro nuovi voli per la Calabria]]></title>
+            <description><![CDATA[<article><h1>Alitalia, quattro nuovi voli per la Calabria</h1><p>LAMEZIA TERME Nuovi investimenti di Alitalia nelle rotte verso il Mezzogiorno. Ad agosto, la compagnia aerea aumenterà l'offerta di collegamenti diretti da Bologna verso la Calabria, lanciando quattro nuovi voli settimanali, due verso Lamezia Terme e due verso Reggio Calabria. A queste tratte si aggiunge il collegamento Bologna-Catania che sarà attivo tutti i giorni dal 1 maggio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e61f930aa71340ffdbf119ad40b76ee252d8ba7.jpg"></article>]]></description>
+            <link>http://www.corrieredellacalabria.it/index.php/politics/item/43880-alitalia,-quattro-nuovi-voli-per-la-calabria</link>
+            <guid isPermaLink="false">f25b7ac1-04dd-4fb1-acfd-cf6abe40414c</guid>
+            <pubDate>Thu, 10 Mar 2016 20:39:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cosa vedere in Calabria: non solo mare - viaggi.corriere.it]]></title>
-            <description><![CDATA[<article><h1>Cosa vedere in Calabria: non solo mare - viaggi.corriere.it</h1><p>L'entroterra calabrese nasconde paradisi naturalistici sconosciuti. Canyon, gole e corsi d'acqua animati da cascate e freschissime piscine naturali dove immergersi e fare sport Quando si pensa alle vacanze in Calabria viene subito in mente il mare. Eppure c'è un'altra acqua, quella delle fiumare, corsi d'acqua ricchi di cascate e piscine naturali di cui la Calabria è piena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebedcdd3c869d792e09579349104d0c1acf772ef.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cosa vedere in Calabria: non solo mare - viaggi.corriere.it</h1><p>L'entroterra calabrese nasconde paradisi naturalistici sconosciuti. Canyon, gole e corsi d'acqua animati da cascate e freschissime piscine naturali dove immergersi e fare sport Quando si pensa alle vacanze in Calabria viene subito in mente il mare. Eppure c'è un'altra acqua, quella delle fiumare, corsi d'acqua ricchi di cascate e piscine naturali di cui la Calabria è piena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e207bfa0a70753816fcac5b72573ecb4d3f2e66.jpg"></article>]]></description>
             <link>http://viaggi.corriere.it/viaggi/vacanze/calabria-non-solo-mare/</link>
             <guid isPermaLink="false">049542ae-83d8-4837-8efc-82f2ad43ba04</guid>
             <pubDate>Fri, 12 Feb 2016 21:04:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.ilquotidianoweb.it/news/societa-cultura/743895/Un-viaggio-nella-Calabria-sconosciuta-.html</link>
             <guid isPermaLink="false">87a8cf14-0011-481f-8d37-d314b34dcda9</guid>
             <pubDate>Sun, 10 Jan 2016 18:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Capo Vaticano]]></title>
-            <description><![CDATA[<article><h1>Capo Vaticano</h1><h2>Praia del fuoco</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa50b51625eba4f8794b2991c9e2ac65efb0f8c6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/lostincalabria/capo-vaticano/index.html</link>
-            <guid isPermaLink="false">a60d0c73-833b-45dd-a485-490fa2a80087</guid>
-            <pubDate>Sun, 10 Jan 2016 18:07:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
