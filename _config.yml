@@ -1,27 +1,39 @@
-name: LostInCalabria
-favicon: null
-layout_spectrum: 0.74339
-typography_spectrum: 0.07973
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: LostInCalabria
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0
+  saturation: 0
   brandColors:
     - '#ffffff'
     - '#fefffa'
     - '#6eb3fb'
     - '#feffff'
-  brandStrength: 0
   lightness: 1
-  saturation: 0
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.07973
